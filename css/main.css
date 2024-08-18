@@ -13,7 +13,7 @@ body {
 
 .calculator {
     width: 40%;
-    height: 42%;
+    height: 47%;
     background-color: antiquewhite;
     border: 5px solid purple;
     border-radius: 10px;
@@ -31,6 +31,7 @@ body {
     border: 2px solid rgb(181, 148, 181);
     font-size: large;
     background-color: transparent;
+
 }
 
 .input2 {
@@ -54,6 +55,7 @@ body {
     padding: 20px;
     text-align: center;
     cursor: pointer;
+    border-radius: 15px;
 }
 
 .btn:hover {
