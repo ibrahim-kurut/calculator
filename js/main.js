@@ -32,7 +32,7 @@ function clearEntry() {
     input1.value = input1.value.slice(0, -1);
 }
 
-function clearinput1() {
+function clearDisplay() {
     document.getElementById('input1').value = '';
 }
 
