@@ -34,6 +34,7 @@ function clearEntry() {
 
 function clearDisplay() {
     document.getElementById('input1').value = '';
+    input2.value = '';
 }
 
 function calculate() {
